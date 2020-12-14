@@ -1,17 +1,17 @@
 # serverSpeeser_Install
 serverSpeeder Install:
 ```
-wget --no-check-certificate -qO /tmp/appex.sh "https://raw.githubusercontent.com/0oVicero0/serverSpeeder_Install/master/appex.sh" && bash /tmp/appex.sh 'install'
+wget --no-check-certificate -qO /tmp/appex.sh "https://raw.githubusercontent.com/younasiqw/serverSpeeder_Install/master/appex.sh" && bash /tmp/appex.sh 'install'
 ```
 
 serverSpeeder Uninstall:
 ```
-wget --no-check-certificate -qO /tmp/appex.sh "https://raw.githubusercontent.com/0oVicero0/serverSpeeder_Install/master/appex.sh" && bash /tmp/appex.sh 'uninstall'
+wget --no-check-certificate -qO /tmp/appex.sh "https://raw.githubusercontent.com/younasiqw/serverSpeeder_Install/master/appex.sh" && bash /tmp/appex.sh 'uninstall'
 ``` 
 
 serverSpeeder Advance Install:
 ```
-wget --no-check-certificate -qO /tmp/appex.sh "https://raw.githubusercontent.com/0oVicero0/serverSpeeder_Install/master/appex.sh" && bash /tmp/appex.sh '${Kernel Version}'
+wget --no-check-certificate -qO /tmp/appex.sh "https://raw.githubusercontent.com/younasiqw/serverSpeeder_Install/master/appex.sh" && bash /tmp/appex.sh '${Kernel Version}'
 ``` 
 
 ## 使用方法:
